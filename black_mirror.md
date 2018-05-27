@@ -6,18 +6,18 @@
 3. The Entire History of You
 
 ## Season 02
-* 1 Be Right Back
-* 2 White Bear
-* 3 The Waldo Moment
-* 4 White Christmas
+*  Be Right Back
+*  White Bear
+*  The Waldo Moment
+*  White Christmas
 
 ## Season 3
-* 1 Nosedive
-* 2 Playtest
-* 3 Shut Up and Dance
-* 4 San Junipero
-* 5 Men Against Fire
-* 6 Hated in the Nation
+*  Nosedive
+*  Playtest
+*  Shut Up and Dance
+*  San Junipero
+*  Men Against Fire
+*  Hated in the Nation
 
 ## Season 4
 * USS Callister
